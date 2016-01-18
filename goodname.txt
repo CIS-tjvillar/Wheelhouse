@@ -1,4 +1,0 @@
-Line1.0
-Line2.0
-LineA
-LineB
